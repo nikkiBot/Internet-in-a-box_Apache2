@@ -1,0 +1,20 @@
+{
+    "name": "Boys HUB",
+    "short_name": "Boys HUB",
+     "start_url": ".",
+     "background_color": "#ffffff",
+     "theme_color": "#3bbfbf",
+     "display": "standalone",
+     "icons": [
+        {
+            "src":"img/boy.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src":"img/boy512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
